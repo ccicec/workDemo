@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="toumin">
+
+        <item name="android:windowFrame">@null</item>
+        <!--边框-->
+        <item name="android:windowIsTranslucent">true</item>
+        <!--半透明-->
+        <item name="android:windowNoTitle">true</item>
+        <!--无标题-->
+        <item name="android:windowBackground">@color/bj</item>
+        <!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+
+    <style name="Item">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">300dp</item>
+    </style>
+
+    <style name="Item.Top">
+        <item name="android:background">@color/top_item</item>
+    </style>
+
+    <style name="Item.Sticky">
+        <item name="android:background">@drawable/sticky_item_background</item>
+        <item name="android:textColor">@color/sticky_item_text</item>
+        <item name="android:layout_height">@dimen/sticky_height</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+    <style name="Item.Bottom">
+        <item name="android:background">@color/bottom_item</item>
+    </style>
+
+    <style name="Item.Bottom.Alt">
+        <item name="android:background">@color/bottom_item_alt</item>
+    </style>
+
+
+</resources>

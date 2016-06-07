@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityTransitionAnimation/activityTransitionAnimation.iml" filepath="$PROJECT_DIR$/activityTransitionAnimation/activityTransitionAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit2Demo/app.iml" filepath="$PROJECT_DIR$/retrofit2Demo/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit2Demo/retrofit2Demo.iml" filepath="$PROJECT_DIR$/retrofit2Demo/retrofit2Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploadAvatar/uploadAvatar.iml" filepath="$PROJECT_DIR$/uploadAvatar/uploadAvatar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilsDemo/utilsDemo.iml" filepath="$PROJECT_DIR$/utilsDemo/utilsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewDemo/viewDemo.iml" filepath="$PROJECT_DIR$/viewDemo/viewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils3Demo/xutils3Demo.iml" filepath="$PROJECT_DIR$/xutils3Demo/xutils3Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutilsEncapsulation/xutilsEncapsulation.iml" filepath="$PROJECT_DIR$/xutilsEncapsulation/xutilsEncapsulation.iml" />
+    </modules>
+  </component>
+</project>

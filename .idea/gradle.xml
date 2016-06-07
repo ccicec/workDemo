@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activityTransitionAnimation" />
+            <option value="$PROJECT_DIR$/retrofit2Demo" />
+            <option value="$PROJECT_DIR$/uploadAvatar" />
+            <option value="$PROJECT_DIR$/utilsDemo" />
+            <option value="$PROJECT_DIR$/viewDemo" />
+            <option value="$PROJECT_DIR$/xutils3Demo" />
+            <option value="$PROJECT_DIR$/xutilsEncapsulation" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activityTransitionAnimation" />
+            <option value="$PROJECT_DIR$/retrofit2Demo" />
+            <option value="$PROJECT_DIR$/uploadAvatar" />
+            <option value="$PROJECT_DIR$/utilsDemo" />
+            <option value="$PROJECT_DIR$/viewDemo" />
+            <option value="$PROJECT_DIR$/xutils3Demo" />
+            <option value="$PROJECT_DIR$/xutilsEncapsulation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
