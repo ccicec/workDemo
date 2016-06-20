@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityTransitionAnimation/activityTransitionAnimation.iml" filepath="$PROJECT_DIR$/activityTransitionAnimation/activityTransitionAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit2Demo/app.iml" filepath="$PROJECT_DIR$/retrofit2Demo/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guideDemo/guideDemo.iml" filepath="$PROJECT_DIR$/guideDemo/guideDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit2Demo/retrofit2Demo.iml" filepath="$PROJECT_DIR$/retrofit2Demo/retrofit2Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/uploadAvatar/uploadAvatar.iml" filepath="$PROJECT_DIR$/uploadAvatar/uploadAvatar.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilsDemo/utilsDemo.iml" filepath="$PROJECT_DIR$/utilsDemo/utilsDemo.iml" />

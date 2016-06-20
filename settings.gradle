@@ -1,1 +1,1 @@
-include ':retrofit2Demo', ':xutils3Demo', ':xutilsEncapsulation', ':uploadAvatar', ':utilsDemo', ':viewDemo', ':activityTransitionAnimation'
+include ':retrofit2Demo', ':xutils3Demo', ':xutilsEncapsulation', ':uploadAvatar', ':utilsDemo', ':viewDemo', ':activityTransitionAnimation', ':guideDemo'

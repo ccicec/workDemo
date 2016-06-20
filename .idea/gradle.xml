@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activityTransitionAnimation" />
+            <option value="$PROJECT_DIR$/guideDemo" />
             <option value="$PROJECT_DIR$/retrofit2Demo" />
             <option value="$PROJECT_DIR$/uploadAvatar" />
             <option value="$PROJECT_DIR$/utilsDemo" />
@@ -21,6 +22,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activityTransitionAnimation" />
+            <option value="$PROJECT_DIR$/guideDemo" />
             <option value="$PROJECT_DIR$/retrofit2Demo" />
             <option value="$PROJECT_DIR$/uploadAvatar" />
             <option value="$PROJECT_DIR$/utilsDemo" />
